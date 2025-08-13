@@ -22,6 +22,7 @@ Research engineer at Sony Research
 
 
 ## Publications
+- Christian Simon, Masato Ishii, **Akio Hayakawa**, Zhi Zhong, Shusuke Takahashi, Takashi Shibuya, Yuki Mitsufuji, "TITAN-Guide: Taming Inference-Time Alignment for Guided Text-to-Video Diffusion Models," The International Conference on Computer Vision (**ICCV**), 2025 [[arXiv](https://arxiv.org/abs/2508.00289)] [[project](https://titanguide.github.io/)]
 - Masato Ishii, **Akio Hayakawa**, Takashi Shibuya, Yuki Mitsufuji, "A Simple but Strong Baseline for Sounding Video Generation: Effective Adaptation of Audio and Video Diffusion Models for Joint Generation", The IEEE International Joint Conference on Neural Network (**IJCNN**), 2025 [[arXiv](https://arxiv.org/abs/2409.17550)] [[code](https://github.com/SonyResearch/SVG_baseline)]
 - Ho Kei Cheng, Masato Ishii, **Akio Hayakawa**, Takashi Shibuya, Alexander Schwing, Yuki Mitsufuji, "Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis," The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025 [[arXiv](https://arxiv.org/abs/2412.15322)] [[code](https://github.com/hkchengrex/MMAudio)]
 - **Akio Hayakawa**, Masato Ishii, Takashi Shibuya, Yuki Mitsufuji, "MMDisCo: Multi-Modal Discriminator-Guided Cooperative Diffusion for Joint Audio and Video Generation", The International Conference on Learning Representation (**ICLR**), 2025 [[arXiv](https://arxiv.org/abs/2405.17842)] [[code](https://github.com/SonyResearch/MMDisCo)]
@@ -44,4 +45,4 @@ Research engineer at Sony Research
 ## Invited presentations
 
 - "Tutorial on Diffusion Models" in The 29th Symposium on Sensing via Image Information (SSII) 2023 [[slides](https://speakerdeck.com/ssii/ssii2023-ss1)]
-- "Tutorial on Diffusion Models and Recent trends" in The 37th Annual Conference of Japanese Society for Artificail Intelligence (JSAI) 2023
+- "Tutorial on Diffusion Models and Recent Trends" in The 37th Annual Conference of Japanese Society for Artificial Intelligence (JSAI) 2023

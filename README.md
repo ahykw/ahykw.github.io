@@ -57,3 +57,8 @@ Research engineer at Sony Research
 
 - "Tutorial on Diffusion Models" in The 29th Symposium on Sensing via Image Information (SSII) 2023 [[slides](https://speakerdeck.com/ssii/ssii2023-ss1)]
 - "Tutorial on Diffusion Models and Recent Trends" in The 37th Annual Conference of Japanese Society for Artificial Intelligence (JSAI) 2023
+
+## Professional Activities
+
+- Conference Reviewer: CVPR, ECCV, ICLR (Top 200 Reviewers at ICLR 2026), NeurIPS
+

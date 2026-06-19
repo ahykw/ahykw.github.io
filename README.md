@@ -35,14 +35,14 @@ Research engineer at Sony Research
 
 - Naoki Matsunaga, Masato Ishii, **Akio Hayakawa**, Kenji Suzuki, Takuya Narihira, "Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models", AI for Content Creation workshop (**CVPRW AI4CC**), 2023 [[arXiv](https://arxiv.org/abs/2212.02024)]
 
-## Domestic Conference
+### Domestic Conference
 
 - Hiromichi Kamata, Yuiko Sakuma, **Akio Hayakawa**, Masato Ishii, Takuya Narihira, "Instruct 3D-to-3D: Text Instruction Guided 3D-to-3D conversion", The 26th Meeting on Image Recognition and Understanding (**MIRU**), 2023 [[arXiv](https://arxiv.org/abs/2303.15780)]
 - **Akio Hayakawa**, Jun Nishikawa, Masato Ishii, "任意の画像生成モデルに対する汎用リファイナーとしての拡散確率モデルの応用", The 25th Meeting on Image Recognition and Understanding (**MIRU**), 2022 
 - Naofumi Akimoto, **Akio Hayakawa**, Andrew Shin, Takuya Narihira, "Reference-based video colorization with spatiotemporal correspondence", The 24th Meeting on Image Recognition and Understanding (**MIRU**), 2021 [[arXiv](https://arxiv.org/abs/2011.12528)]
 - **Akio Hayakawa**, Takuya Narihira, "Out-of-core training for extremely large-scale neural networks with adaptive window-based scheduling", The 24th Meeting on Image Recognition and Understanding (**MIRU**), 2021 [[arXiv](https://arxiv.org/abs/2010.14109)]
 
-## Preprint
+### Preprint
 - Takuya Narihira, Javier Alonsogarcia, Fabien Cardinaux, **Akio Hayakawa**, Masato Ishii, Kazunori Iwaki, Thomas Kemp, Yoshiyuki Kobayashi, Lukas Mauch, Akira Nakamura, Yukio Obuchi, Andrew Shin, Kenji Suzuki, Stephen Tiedmann, Stefan Uhlich, Takuya Yashima, Kazuki Yoshiyama, "Neural Network Libraries: A Deep Learning Framework Designed from Engineers' Perspectives", arXiv, 2021 [[arXiv](https://arxiv.org/abs/2102.06725)]
 
 ## Patents

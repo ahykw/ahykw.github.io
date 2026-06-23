@@ -22,31 +22,31 @@ Research engineer at Sony Research
 
 ## Publications
 ### International Conference
-- **Akio Hayakawa**, Yusuke Mukuta, Tatsuya Harada, "Linear Fusion MultiDiffusion for Fast Training-Free Spherical Panorama Generation," The European Conference on Computer Vision (**ECCV**), 2026
-- **Akio Hayakawa**, Masato Ishii, Takashi Shibuya, Yuki Mitsufuji, "Step-by-Step Video-to-Audio Synthesis via Negative Audio Guidance," The European Conference on Computer Vision (**ECCV**), 2026 [[arXiv](https://arxiv.org/abs/2506.20995)]
-- Christian Simon, Masato Ishii, Wei-Yao Wang, Koichi Saito, **Akio Hayakawa**, Dongseok Shim, Zhi Zhong, Shuyang Cui, Takashi Shibuya, Shusuke Takahashi, Yuki Mitsufuji, “Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models,” The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026 [[arXiv](https://arxiv.org/abs/2602.20981)] [[project](https://echoesovertime.github.io/)]
-- Christian Simon, Masato Ishii, **Akio Hayakawa**, Zhi Zhong, Shusuke Takahashi, Takashi Shibuya, Yuki Mitsufuji, "TITAN-Guide: Taming Inference-Time Alignment for Guided Text-to-Video Diffusion Models," The International Conference on Computer Vision (**ICCV**), 2025 [[arXiv](https://arxiv.org/abs/2508.00289)] [[project](https://titanguide.github.io/)]
-- Masato Ishii, **Akio Hayakawa**, Takashi Shibuya, Yuki Mitsufuji, "A Simple but Strong Baseline for Sounding Video Generation: Effective Adaptation of Audio and Video Diffusion Models for Joint Generation", The IEEE International Joint Conference on Neural Network (**IJCNN**), 2025 [[arXiv](https://arxiv.org/abs/2409.17550)] [[code](https://github.com/SonyResearch/SVG_baseline)]
-- Ho Kei Cheng, Masato Ishii, **Akio Hayakawa**, Takashi Shibuya, Alexander Schwing, Yuki Mitsufuji, "Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis," The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025 [[arXiv](https://arxiv.org/abs/2412.15322)] [[code](https://github.com/hkchengrex/MMAudio)]
-- **Akio Hayakawa**, Masato Ishii, Takashi Shibuya, Yuki Mitsufuji, "MMDisCo: Multi-Modal Discriminator-Guided Cooperative Diffusion for Joint Audio and Video Generation", The International Conference on Learning Representation (**ICLR**), 2025 [[arXiv](https://arxiv.org/abs/2405.17842)] [[code](https://github.com/SonyResearch/MMDisCo)]
-- **Akio Hayakawa**, Yusuke Kurose, Kiyohito Tanaka, Kento Aida, Shin'ichi Satoh, Masaru Kitsuregawa, Tatsuya Harada, "Gastric cancer detection for gastroenterological endoscopy with local and multi-scale global information", The International Conference of Computer Assisted Radiology and Surgery (**CARS**), 2019
+- **Akio Hayakawa**, Yusuke Mukuta, Tatsuya Harada, "Linear Fusion MultiDiffusion for Fast Training-Free Spherical Panorama Generation," ECCV 2026
+- **Akio Hayakawa**, Masato Ishii, Takashi Shibuya, Yuki Mitsufuji, "Step-by-Step Video-to-Audio Synthesis via Negative Audio Guidance," ECCV 2026 [[arXiv](https://arxiv.org/abs/2506.20995)]
+- Christian Simon, Masato Ishii, Wei-Yao Wang, Koichi Saito, **Akio Hayakawa**, Dongseok Shim, Zhi Zhong, Shuyang Cui, Takashi Shibuya, Shusuke Takahashi, Yuki Mitsufuji, “Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models,” CVPR 2026 [[arXiv](https://arxiv.org/abs/2602.20981)] [[project](https://echoesovertime.github.io/)]
+- Christian Simon, Masato Ishii, **Akio Hayakawa**, Zhi Zhong, Shusuke Takahashi, Takashi Shibuya, Yuki Mitsufuji, "TITAN-Guide: Taming Inference-Time Alignment for Guided Text-to-Video Diffusion Models," ICCV 2025 [[arXiv](https://arxiv.org/abs/2508.00289)] [[project](https://titanguide.github.io/)]
+- Masato Ishii, **Akio Hayakawa**, Takashi Shibuya, Yuki Mitsufuji, "A Simple but Strong Baseline for Sounding Video Generation: Effective Adaptation of Audio and Video Diffusion Models for Joint Generation", IJCNN 2025 [[arXiv](https://arxiv.org/abs/2409.17550)] [[code](https://github.com/SonyResearch/SVG_baseline)]
+- Ho Kei Cheng, Masato Ishii, **Akio Hayakawa**, Takashi Shibuya, Alexander Schwing, Yuki Mitsufuji, "Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis," CVPR 2025 [[arXiv](https://arxiv.org/abs/2412.15322)] [[code](https://github.com/hkchengrex/MMAudio)]
+- **Akio Hayakawa**, Masato Ishii, Takashi Shibuya, Yuki Mitsufuji, "MMDisCo: Multi-Modal Discriminator-Guided Cooperative Diffusion for Joint Audio and Video Generation", ICLR 2025 [[arXiv](https://arxiv.org/abs/2405.17842)] [[code](https://github.com/SonyResearch/MMDisCo)]
+- **Akio Hayakawa**, Yusuke Kurose, Kiyohito Tanaka, Kento Aida, Shin'ichi Satoh, Masaru Kitsuregawa, Tatsuya Harada, "Gastric cancer detection for gastroenterological endoscopy with local and multi-scale global information", CARS 2019
 
 ### Workshop
 
-- Naoki Matsunaga, Masato Ishii, **Akio Hayakawa**, Kenji Suzuki, Takuya Narihira, "Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models", AI for Content Creation workshop (**CVPRW AI4CC**), 2023 [[arXiv](https://arxiv.org/abs/2212.02024)]
+- Naoki Matsunaga, Masato Ishii, **Akio Hayakawa**, Kenji Suzuki, Takuya Narihira, "Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models", CVPRW AI4CC 2023 [[arXiv](https://arxiv.org/abs/2212.02024)]
 
 ### Domestic Conference
 
-- Hiromichi Kamata, Yuiko Sakuma, **Akio Hayakawa**, Masato Ishii, Takuya Narihira, "Instruct 3D-to-3D: Text Instruction Guided 3D-to-3D conversion", The 26th Meeting on Image Recognition and Understanding (**MIRU**), 2023 [[arXiv](https://arxiv.org/abs/2303.15780)]
+- Hiromichi Kamata, Yuiko Sakuma, **Akio Hayakawa**, Masato Ishii, Takuya Narihira, "Instruct 3D-to-3D: Text Instruction Guided 3D-to-3D conversion", MIRU 2023 [[arXiv](https://arxiv.org/abs/2303.15780)]
 - **Akio Hayakawa**, Jun Nishikawa, Masato Ishii, "任意の画像生成モデルに対する汎用リファイナーとしての拡散確率モデルの応用", The 25th Meeting on Image Recognition and Understanding (**MIRU**), 2022 
-- Naofumi Akimoto, **Akio Hayakawa**, Andrew Shin, Takuya Narihira, "Reference-based video colorization with spatiotemporal correspondence", The 24th Meeting on Image Recognition and Understanding (**MIRU**), 2021 [[arXiv](https://arxiv.org/abs/2011.12528)]
-- **Akio Hayakawa**, Takuya Narihira, "Out-of-core training for extremely large-scale neural networks with adaptive window-based scheduling", The 24th Meeting on Image Recognition and Understanding (**MIRU**), 2021 [[arXiv](https://arxiv.org/abs/2010.14109)]
+- Naofumi Akimoto, **Akio Hayakawa**, Andrew Shin, Takuya Narihira, "Reference-based video colorization with spatiotemporal correspondence", MIRU 2021 [[arXiv](https://arxiv.org/abs/2011.12528)]
+- **Akio Hayakawa**, Takuya Narihira, "Out-of-core training for extremely large-scale neural networks with adaptive window-based scheduling", MIRU 2021 [[arXiv](https://arxiv.org/abs/2010.14109)]
 
 ### Preprint
-- Takuya Narihira, Javier Alonsogarcia, Fabien Cardinaux, **Akio Hayakawa**, Masato Ishii, Kazunori Iwaki, Thomas Kemp, Yoshiyuki Kobayashi, Lukas Mauch, Akira Nakamura, Yukio Obuchi, Andrew Shin, Kenji Suzuki, Stephen Tiedmann, Stefan Uhlich, Takuya Yashima, Kazuki Yoshiyama, "Neural Network Libraries: A Deep Learning Framework Designed from Engineers' Perspectives", arXiv, 2021 [[arXiv](https://arxiv.org/abs/2102.06725)]
+- Zhengyang Yu, **Akio Hayakawa**, Masato Ishii, Qingtao Yu, Takashi Shibuya, Jing Zhang, Yuki Mitsufuji, "AutoRefiner: Improving Autoregressive Video Diffusion Models via Reflective Refinement Over the Stochastic Sampling Path," 2025 [[arXiv](https://arxiv.org/abs/2512.11203)]
+- Takuya Narihira, Javier Alonsogarcia, Fabien Cardinaux, **Akio Hayakawa**, Masato Ishii, Kazunori Iwaki, Thomas Kemp, Yoshiyuki Kobayashi, Lukas Mauch, Akira Nakamura, Yukio Obuchi, Andrew Shin, Kenji Suzuki, Stephen Tiedmann, Stefan Uhlich, Takuya Yashima, Kazuki Yoshiyama, "Neural Network Libraries: A Deep Learning Framework Designed from Engineers' Perspectives", 2021 [[arXiv](https://arxiv.org/abs/2102.06725)]
 
 ## Patents
-
 - Yoshiyuki Kobayashi, Andrew Shin, **Akio Hayakawa**, Takayoshi Takayanagi, Hirotaka Suzuki, "Bias adjustment device, information processing device, information processing method, and information processing program", US Patent App. 17/771,051, 2022
 
 ## Prizes

@@ -44,6 +44,8 @@ Research engineer at Sony Research
 
 ### Preprint
 - Zhengyang Yu, **Akio Hayakawa**, Masato Ishii, Qingtao Yu, Takashi Shibuya, Jing Zhang, Yuki Mitsufuji, "AutoRefiner: Improving Autoregressive Video Diffusion Models via Reflective Refinement Over the Stochastic Sampling Path," 2025 [[arXiv](https://arxiv.org/abs/2512.11203)]
+- Masato Ishii, **Akio Hayakawa**, Takashi Shibuya, Yuki Mitsufuji, "Coherent Audio-Visual Editing via Conditional Audio Generation Following Video Edits," 2025 [[arXiv](https://arxiv.org/abs/2512.07209)]
+- Koichi Saito, Julian Tanke, Christian Simon, Masato Ishii, Kazuki Shimada, Zachary Novack, Zhi Zhong, **Akio Hayakawa**, Takashi Shibuya, Yuki Mitsufuji, "SoundReactor: Frame-level Online Video-to-Audio Generation," 2025 [[arXiv](https://arxiv.org/abs/2510.02110)]
 - Takuya Narihira, Javier Alonsogarcia, Fabien Cardinaux, **Akio Hayakawa**, Masato Ishii, Kazunori Iwaki, Thomas Kemp, Yoshiyuki Kobayashi, Lukas Mauch, Akira Nakamura, Yukio Obuchi, Andrew Shin, Kenji Suzuki, Stephen Tiedmann, Stefan Uhlich, Takuya Yashima, Kazuki Yoshiyama, "Neural Network Libraries: A Deep Learning Framework Designed from Engineers' Perspectives", 2021 [[arXiv](https://arxiv.org/abs/2102.06725)]
 
 ## Patents

@@ -38,7 +38,7 @@ Research engineer at Sony Research
 ### Domestic Conference
 
 - Hiromichi Kamata, Yuiko Sakuma, **Akio Hayakawa**, Masato Ishii, Takuya Narihira, "Instruct 3D-to-3D: Text Instruction Guided 3D-to-3D conversion", MIRU 2023 [[arXiv](https://arxiv.org/abs/2303.15780)]
-- **Akio Hayakawa**, Jun Nishikawa, Masato Ishii, "任意の画像生成モデルに対する汎用リファイナーとしての拡散確率モデルの応用", The 25th Meeting on Image Recognition and Understanding (**MIRU**), 2022 
+- **Akio Hayakawa**, Jun Nishikawa, Masato Ishii, "任意の画像生成モデルに対する汎用リファイナーとしての拡散確率モデルの応用", MIRU 2022 
 - Naofumi Akimoto, **Akio Hayakawa**, Andrew Shin, Takuya Narihira, "Reference-based video colorization with spatiotemporal correspondence", MIRU 2021 [[arXiv](https://arxiv.org/abs/2011.12528)]
 - **Akio Hayakawa**, Takuya Narihira, "Out-of-core training for extremely large-scale neural networks with adaptive window-based scheduling", MIRU 2021 [[arXiv](https://arxiv.org/abs/2010.14109)]
 

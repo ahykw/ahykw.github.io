@@ -57,7 +57,7 @@ Research engineer at Sony Research
 
 ## Invited presentations
 
-- "Tutorial on Diffusion Models" in The 29th Symposium on Sensing via Image Information (SSII) 2023 [[slides](https://speakerdeck.com/ssii/ssii2023-ss1)]
+- "Tutorial on Diffusion Models" in The 29th Symposium on Sensing via Image Information (SSII) 2023 (> 15,000 views) [[slides](https://speakerdeck.com/ssii/ssii2023-ss1)]
 - "Tutorial on Diffusion Models and Recent Trends" in The 37th Annual Conference of Japanese Society for Artificial Intelligence (JSAI) 2023
 
 ## Professional Activities

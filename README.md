@@ -1,14 +1,14 @@
 # Akio Hayakawa
 
-Research engineer at Sony Research
+Research engineer at Sony Research.
 
 #### Links
 
 [Email](mailto:akio080314@gmail.com) /
 [CV](https://ahykw.github.io/files/cv.pdf) /
 [GitHub (private account)](https://github.com/ahykw) /
-[GitHub (company account)](https://github.com/AkioHayakawa-sony)
-[Google Scholar](https://scholar.google.com/citations?user=sXAjHFIAAAAJ&hl=en) /
+[GitHub (company account)](https://github.com/AkioHayakawa-sony) /
+[Google Scholar](https://scholar.google.com/citations?user=sXAjHFIAAAAJ&hl=en)
 
 ## Educations
 

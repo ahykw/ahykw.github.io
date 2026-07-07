@@ -21,10 +21,6 @@ Research engineer at Sony Research.
 - R&D Center, Sony Corp. (2018/04 - 2023/03)
 - Sony Research Inc. (2023/04 - )
 
-## Open-source Contributions
-
-- Core contributor to [Neural Network Libraries (NNabla)](https://github.com/sony/nnabla), with contributions spanning the Python API, C++ backend, CUDA optimization, GPU memory management, and distributed large-scale training.
-
 ## Publications
 ### International Conference
 - **Akio Hayakawa**, Yusuke Mukuta, Tatsuya Harada, "Linear Fusion MultiDiffusion for Fast Training-Free Spherical Panorama Generation," ECCV 2026 [[project](https://ahykw.github.io/lfmd/)]
@@ -52,6 +48,10 @@ Research engineer at Sony Research.
 - Masato Ishii, **Akio Hayakawa**, Takashi Shibuya, Yuki Mitsufuji, "Coherent Audio-Visual Editing via Conditional Audio Generation Following Video Edits," 2025 [[arXiv](https://arxiv.org/abs/2512.07209)]
 - Koichi Saito, Julian Tanke, Christian Simon, Masato Ishii, Kazuki Shimada, Zachary Novack, Zhi Zhong, **Akio Hayakawa**, Takashi Shibuya, Yuki Mitsufuji, "SoundReactor: Frame-level Online Video-to-Audio Generation," 2025 [[arXiv](https://arxiv.org/abs/2510.02110)]
 - Takuya Narihira, Javier Alonsogarcia, Fabien Cardinaux, **Akio Hayakawa**, Masato Ishii, Kazunori Iwaki, Thomas Kemp, Yoshiyuki Kobayashi, Lukas Mauch, Akira Nakamura, Yukio Obuchi, Andrew Shin, Kenji Suzuki, Stephen Tiedmann, Stefan Uhlich, Takuya Yashima, Kazuki Yoshiyama, "Neural Network Libraries: A Deep Learning Framework Designed from Engineers' Perspectives", 2021 [[arXiv](https://arxiv.org/abs/2102.06725)]
+
+## Open-source Contributions
+
+- Core contributor to [Neural Network Libraries (NNabla)](https://github.com/sony/nnabla), with contributions spanning the Python API, C++ backend, CUDA optimization, GPU memory management, and distributed large-scale training.
 
 ## Patents
 - Yoshiyuki Kobayashi, Andrew Shin, **Akio Hayakawa**, Takayoshi Takayanagi, Hirotaka Suzuki, "Bias adjustment device, information processing device, information processing method, and information processing program", US Patent App. 17/771,051, 2022

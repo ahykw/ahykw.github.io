@@ -16,7 +16,7 @@ Research engineer at Sony Research.
 - B.S. in Engineering, the University of Tokyo (2012/04 - 2016/03)
 
 
-## Work Experiences
+## Work Experience
 
 - R&D Center, Sony Corp. (2018/04 - 2023/03)
 - Sony Research Inc. (2023/04 - )

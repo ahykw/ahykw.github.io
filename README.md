@@ -10,7 +10,7 @@ Research engineer at Sony Research.
 [GitHub (company account)](https://github.com/AkioHayakawa-sony) /
 [Google Scholar](https://scholar.google.com/citations?user=sXAjHFIAAAAJ&hl=en)
 
-## Educations
+## Education
 
 - M.S. in Information Science and Technology, the University of Tokyo (2016/04 - 2018/03)
 - B.S. in Engineering, the University of Tokyo (2012/04 - 2016/03)
@@ -20,6 +20,10 @@ Research engineer at Sony Research.
 
 - R&D Center, Sony Corp. (2018/04 - 2023/03)
 - Sony Research Inc. (2023/04 - )
+
+## Open-source Contributions
+
+- Core contributor to [Neural Network Libraries (NNabla)](https://github.com/sony/nnabla), with contributions spanning the Python API, C++ backend, CUDA optimization, GPU memory management, and distributed large-scale training.
 
 ## Publications
 ### International Conference
@@ -63,5 +67,6 @@ Research engineer at Sony Research.
 
 ## Professional Activities
 
+- Executive co-chair for the 29th Meeting on Image Recognition and Understanding (MIRU2026).
 - Conference Reviewer: CVPR, ECCV, ICLR (Top 200 Reviewers at ICLR 2026), NeurIPS
 

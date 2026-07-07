@@ -8,7 +8,8 @@ Research engineer at Sony Research.
 [CV](https://ahykw.github.io/files/cv.pdf) /
 [GitHub (private account)](https://github.com/ahykw) /
 [GitHub (company account)](https://github.com/AkioHayakawa-sony) /
-[Google Scholar](https://scholar.google.com/citations?user=sXAjHFIAAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com/citations?user=sXAjHFIAAAAJ&hl=en) /
+[LinkedIn](https://www.linkedin.com/in/ahykw)
 
 ## Education
 

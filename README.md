@@ -24,7 +24,7 @@ Research engineer at Sony Research.
 
 ## Publications
 ### International Conference
-- Zhengyang Yu, **Akio Hayakawa**, Masato Ishii, Qingtao Yu, Xuesong Li, Takashi Shibuya, Yuki Mitsufuji, Jing Zhang, “Disen-Forcing: Disentangling Semantic Anchoring from Motion for Autoregressive Video Diffusion,” NeurIPS 2026
+- Zhengyang Yu, **Akio Hayakawa**, Masato Ishii, Qingtao Yu, Xuesong Li, Takashi Shibuya, Yuki Mitsufuji, Jing Zhang, “Disen-Forcing: Disentangling Semantic Anchoring from Motion for Autoregressive Video Diffusion,” NeurIPS 2026 [[arXiv](https://arxiv.org/abs/2611.02822)] [[project](https://disen-forcing.github.io/)]
 - **Akio Hayakawa**, Yusuke Mukuta, Tatsuya Harada, "Linear Fusion MultiDiffusion for Fast Training-Free Spherical Panorama Generation," ECCV 2026 [[arXiv](https://arxiv.org/abs/2609.01997)] [[project](https://ahykw.github.io/lfmd/)] [[video](https://www.youtube.com/watch?v=NMfRe9VWnOo)]
 - **Akio Hayakawa**, Masato Ishii, Takashi Shibuya, Yuki Mitsufuji, "Step-by-Step Video-to-Audio Synthesis via Negative Audio Guidance," ECCV 2026 [[arXiv](https://arxiv.org/abs/2506.20995)] [[project](https://ahykw.github.io/sbsv2a/)] [[video](https://www.youtube.com/watch?v=dKAjGm24mqc)]
 - Christian Simon, Masato Ishii, Wei-Yao Wang, Koichi Saito, **Akio Hayakawa**, Dongseok Shim, Zhi Zhong, Shuyang Cui, Takashi Shibuya, Shusuke Takahashi, Yuki Mitsufuji, “Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models,” CVPR 2026 [[arXiv](https://arxiv.org/abs/2602.20981)] [[project](https://echoesovertime.github.io/)]
